@@ -1,0 +1,2044 @@
+{
+ "name": "Momo Magic Cafe",
+ "tagline": "Pizza, momos & more. Made fresh.",
+ "footer": "All prices in Indian Rupees (INR).",
+ "currency": "Rs.",
+ "color": "#f10b0b",
+ "pagecolor": "#f5eaea",
+ "logo": "",
+ "bg": "https://res.cloudinary.com/ngg0a8rt/image/upload/v1793638353/o6bsuddedtfuu6sttxu4.jpg",
+ "decor": [],
+ "categories": [
+  {
+   "title": "PIZZA",
+   "icon": "🍕",
+   "sections": [
+    {
+     "name": "SIMPLY VEG PIZZA",
+     "combo": "",
+     "items": [
+      {
+       "name": "Margherita (Regular)",
+       "price": "115",
+       "veg": "v"
+      },
+      {
+       "name": "Margherita (Medium)",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Margherita (Large)",
+       "price": "385",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Tomato (Regular)",
+       "price": "115",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Tomato (Medium)",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Tomato (Large)",
+       "price": "385",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Onion (Regular)",
+       "price": "115",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Onion (Medium)",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Onion (Large)",
+       "price": "385",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Capsicum (Regular)",
+       "price": "115",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Capsicum (Medium)",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Capsicum (Large)",
+       "price": "385",
+       "veg": "v"
+      }
+     ]
+    },
+    {
+     "name": "ITALIAN E FEAST",
+     "combo": "",
+     "items": [
+      {
+       "name": "Cheese Mushroom (Regular)",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese Mushroom (Medium)",
+       "price": "320",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese Mushroom (Large)",
+       "price": "425",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Paneer (Regular)",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Paneer (Medium)",
+       "price": "320",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Paneer (Large)",
+       "price": "425",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Corn (Regular)",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Corn (Medium)",
+       "price": "320",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese & Corn (Large)",
+       "price": "425",
+       "veg": "v"
+      }
+     ]
+    },
+    {
+     "name": "AMERICAN VEG PIZZA",
+     "combo": "",
+     "items": [
+      {
+       "name": "Double Cheese Margherita (Regular)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Double Cheese Margherita (Medium)",
+       "price": "350",
+       "veg": "v"
+      },
+      {
+       "name": "Double Cheese Margherita (Large)",
+       "price": "450",
+       "veg": "v"
+      },
+      {
+       "name": "Veg Exotic Pizza (Regular)",
+       "price": "249",
+       "veg": "v"
+      },
+      {
+       "name": "Veg Exotic Pizza (Medium)",
+       "price": "380",
+       "veg": "v"
+      },
+      {
+       "name": "Veg Exotic Pizza (Large)",
+       "price": "470",
+       "veg": "v"
+      },
+      {
+       "name": "Makani Do Pyaza Pizza (Regular)",
+       "price": "249",
+       "veg": "v"
+      },
+      {
+       "name": "Makani Do Pyaza Pizza (Medium)",
+       "price": "380",
+       "veg": "v"
+      },
+      {
+       "name": "Makani Do Pyaza Pizza (Large)",
+       "price": "470",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer 65 Pizza (Regular)",
+       "price": "249",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer 65 Pizza (Medium)",
+       "price": "370",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer 65 Pizza (Large)",
+       "price": "470",
+       "veg": "v"
+      },
+      {
+       "name": "Tandoori Paneer Pizza (Regular)",
+       "price": "249",
+       "veg": "v"
+      },
+      {
+       "name": "Tandoori Paneer Pizza (Medium)",
+       "price": "459",
+       "veg": "v"
+      },
+      {
+       "name": "Tandoori Paneer Pizza (Large)",
+       "price": "529",
+       "veg": "v"
+      },
+      {
+       "name": "Spicy Treat Pizza (Regular)",
+       "price": "249",
+       "veg": "v"
+      },
+      {
+       "name": "Spicy Treat Pizza (Medium)",
+       "price": "459",
+       "veg": "v"
+      },
+      {
+       "name": "Spicy Treat Pizza (Large)",
+       "price": "529",
+       "veg": "v"
+      },
+      {
+       "name": "Hawaiian (Regular)",
+       "price": "249",
+       "veg": "v"
+      },
+      {
+       "name": "Hawaiian (Medium)",
+       "price": "459",
+       "veg": "v"
+      },
+      {
+       "name": "Hawaiian (Large)",
+       "price": "529",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Delight Pizza (Regular)",
+       "price": "249",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Delight Pizza (Medium)",
+       "price": "459",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Delight Pizza (Large)",
+       "price": "529",
+       "veg": "v"
+      },
+      {
+       "name": "Caribbean Pizza (Regular)",
+       "price": "249",
+       "veg": "v"
+      },
+      {
+       "name": "Caribbean Pizza (Medium)",
+       "price": "459",
+       "veg": "v"
+      },
+      {
+       "name": "Caribbean Pizza (Large)",
+       "price": "529",
+       "veg": "v"
+      }
+     ]
+    },
+    {
+     "name": "PREMIUM PIZZA",
+     "combo": "",
+     "items": [
+      {
+       "name": "Magic Special Pizza (Regular)",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Magic Special Pizza (Medium)",
+       "price": "479",
+       "veg": "v"
+      },
+      {
+       "name": "Magic Special Pizza (Large)",
+       "price": "599",
+       "veg": "v"
+      },
+      {
+       "name": "Peri Peri Pizza (Regular)",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Peri Peri Pizza (Medium)",
+       "price": "479",
+       "veg": "v"
+      },
+      {
+       "name": "Peri Peri Pizza (Large)",
+       "price": "599",
+       "veg": "v"
+      },
+      {
+       "name": "Mexican Delight (Regular)",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Mexican Delight (Medium)",
+       "price": "479",
+       "veg": "v"
+      },
+      {
+       "name": "Mexican Delight (Large)",
+       "price": "599",
+       "veg": "v"
+      },
+      {
+       "name": "Balle Balle Pizza (Regular)",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Balle Balle Pizza (Medium)",
+       "price": "479",
+       "veg": "v"
+      },
+      {
+       "name": "Balle Balle Pizza (Large)",
+       "price": "599",
+       "veg": "v"
+      },
+      {
+       "name": "Farm Fresh Pizza (Regular)",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Farm Fresh Pizza (Medium)",
+       "price": "479",
+       "veg": "v"
+      },
+      {
+       "name": "Farm Fresh Pizza (Large)",
+       "price": "599",
+       "veg": "v"
+      }
+     ]
+    },
+    {
+     "name": "NON VEG PIZZA",
+     "combo": "",
+     "items": [
+      {
+       "name": "Tandoori Chicken Pizza (Regular)",
+       "price": "350",
+       "veg": "n"
+      },
+      {
+       "name": "Tandoori Chicken Pizza (Medium)",
+       "price": "490",
+       "veg": "n"
+      },
+      {
+       "name": "Tandoori Chicken Pizza (Large)",
+       "price": "599",
+       "veg": "n"
+      },
+      {
+       "name": "Mexican Keema (Regular)",
+       "price": "350",
+       "veg": "n"
+      },
+      {
+       "name": "Mexican Keema (Medium)",
+       "price": "490",
+       "veg": "n"
+      },
+      {
+       "name": "Mexican Keema (Large)",
+       "price": "599",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken 65 (Regular)",
+       "price": "350",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken 65 (Medium)",
+       "price": "490",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken 65 (Large)",
+       "price": "599",
+       "veg": "n"
+      }
+     ]
+    },
+    {
+     "name": "CHOOSE YOUR EXTRA TOPPING",
+     "combo": "",
+     "items": [
+      {
+       "name": "Add On Extra Cheese (Regular)",
+       "price": "40",
+       "veg": "v"
+      },
+      {
+       "name": "Add On Extra Cheese (Medium)",
+       "price": "60",
+       "veg": "v"
+      },
+      {
+       "name": "Add On Extra Cheese (Large)",
+       "price": "80",
+       "veg": "v"
+      },
+      {
+       "name": "Onion, Capsicum, Fresh Tomato, Garlic, Green Chilly (Regular)",
+       "price": "25",
+       "veg": "v"
+      },
+      {
+       "name": "Onion, Capsicum, Fresh Tomato, Garlic, Green Chilly (Medium)",
+       "price": "40",
+       "veg": "v"
+      },
+      {
+       "name": "Onion, Capsicum, Fresh Tomato, Garlic, Green Chilly (Large)",
+       "price": "55",
+       "veg": "v"
+      },
+      {
+       "name": "Mushroom, Olives, Jalapenos, Golden Corn, Paneer, Red Paprika, Pineapple (Regular)",
+       "price": "35",
+       "veg": "v"
+      },
+      {
+       "name": "Mushroom, Olives, Jalapenos, Golden Corn, Paneer, Red Paprika, Pineapple (Medium)",
+       "price": "50",
+       "veg": "v"
+      },
+      {
+       "name": "Mushroom, Olives, Jalapenos, Golden Corn, Paneer, Red Paprika, Pineapple (Large)",
+       "price": "65",
+       "veg": "v"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "CLASSIC PASTA",
+   "icon": "🍝",
+   "sections": [
+    {
+     "name": "CLASSIC PASTA",
+     "combo": "",
+     "items": [
+      {
+       "name": "White Sauce (Veg)",
+       "price": "190",
+       "veg": "v"
+      },
+      {
+       "name": "White Sauce (Non-Veg)",
+       "price": "220",
+       "veg": "n"
+      },
+      {
+       "name": "Red Sauce (Veg)",
+       "price": "210",
+       "veg": "v"
+      },
+      {
+       "name": "Red Sauce (Non-Veg)",
+       "price": "220",
+       "veg": "n"
+      },
+      {
+       "name": "Mix Sauce (Veg)",
+       "price": "220",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Sauce (Non-Veg)",
+       "price": "220",
+       "veg": "n"
+      },
+      {
+       "name": "Cheese Corn Pasta (Veg)",
+       "price": "230",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese Corn Pasta (Non-Veg)",
+       "price": "250",
+       "veg": "n"
+      },
+      {
+       "name": "Add on Extra Cheese",
+       "price": "20",
+       "veg": "v"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "FAMILY COMBO PACK",
+   "icon": "👨‍👩‍👧‍👦",
+   "sections": [
+    {
+     "name": "FAMILY COMBO PACK",
+     "combo": "",
+     "items": [
+      {
+       "name": "2x Veg Pizza Combo",
+       "price": "250",
+       "veg": "v"
+      },
+      {
+       "name": "3x Veg Pizza Combo",
+       "price": "350",
+       "veg": "v"
+      },
+      {
+       "name": "4x Veg Pizza Combo",
+       "price": "450",
+       "veg": "v"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "GARLIC BREAD",
+   "icon": "🥖",
+   "sections": [
+    {
+     "name": "GARLIC BREAD",
+     "combo": "",
+     "items": [
+      {
+       "name": "Stuffed Garlic Bread",
+       "price": "150",
+       "veg": "v"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "ROLLS",
+   "icon": "🌯",
+   "sections": [
+    {
+     "name": "ROYAL KATHI ROLLS-VEG",
+     "combo": "",
+     "items": [
+      {
+       "name": "Kathi Veg Roll",
+       "price": "90",
+       "veg": "v"
+      },
+      {
+       "name": "Aloo Cheese Kathi Roll",
+       "price": "99",
+       "veg": "v"
+      },
+      {
+       "name": "Veg Kathi Cheese Roll",
+       "price": "110",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese Corn Kathi Roll",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Veg Paneer Kathi Roll",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Chilli Roll",
+       "price": "140",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Bhurji Kathi Roll",
+       "price": "140",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Makhni Kathi Roll",
+       "price": "149",
+       "veg": "v"
+      },
+      {
+       "name": "Malai Paneer Kathi Roll",
+       "price": "149",
+       "veg": "v"
+      },
+      {
+       "name": "Masala Chaap Kathi Roll",
+       "price": "149",
+       "veg": "v"
+      },
+      {
+       "name": "Malai Chaap Roll",
+       "price": "149",
+       "veg": "v"
+      }
+     ]
+    },
+    {
+     "name": "EGG KATHAI ROLL",
+     "combo": "",
+     "items": [
+      {
+       "name": "Egg Kathi Roll",
+       "price": "110",
+       "veg": "n"
+      },
+      {
+       "name": "Double Egg Kathi Roll",
+       "price": "140",
+       "veg": "n"
+      },
+      {
+       "name": "Double Egg Bhurji Roll",
+       "price": "160",
+       "veg": "n"
+      },
+      {
+       "name": "Egg Chicken Roll",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Egg Cheese Roll",
+       "price": "180",
+       "veg": "n"
+      }
+     ]
+    },
+    {
+     "name": "SIGNATURE CHICKEN ROLLS",
+     "combo": "",
+     "items": [
+      {
+       "name": "Classic Chicken Kathi Roll",
+       "price": "140",
+       "veg": "n"
+      },
+      {
+       "name": "Malai Chicken Kathi Roll",
+       "price": "160",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Keema Kathi Roll",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Hot Garlic Chicken Roll",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chilli Chicken Roll",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Peri Peri Chicken Roll",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken 65 Kathi Roll",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Seekh Kawab Roll",
+       "price": "190",
+       "veg": "n"
+      }
+     ]
+    },
+    {
+     "name": "KORMA SPECIAL ROLLS",
+     "combo": "",
+     "items": [
+      {
+       "name": "Korma Paneer Kathi Roll",
+       "price": "210",
+       "veg": "v"
+      },
+      {
+       "name": "Shahi Korma Paneer Roll",
+       "price": "210",
+       "veg": "v"
+      },
+      {
+       "name": "Korma Chaap Roll",
+       "price": "210",
+       "veg": "v"
+      },
+      {
+       "name": "Chicken Korma Roll",
+       "price": "230",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Shahi Korma Roll",
+       "price": "230",
+       "veg": "n"
+      },
+      {
+       "name": "Double Chicken Korma Roll",
+       "price": "250",
+       "veg": "n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "MOMO",
+   "icon": "🥟",
+   "sections": [
+    {
+     "name": "PRIMIUM TANDOORI MOMOS (8 PCS)",
+     "combo": "",
+     "items": [
+      {
+       "name": "Mix Veg (Dry)",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Afghani)",
+       "price": "160",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Achari)",
+       "price": "160",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Coctail)",
+       "price": "160",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Panfried)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Sizzler)",
+       "price": "200",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Dry)",
+       "price": "150",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Afghani)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Achari)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Coctail)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Panfried)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Sizzler)",
+       "price": "250",
+       "veg": "v"
+      },
+      {
+       "name": "Classic Chicken (Dry)",
+       "price": "160",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Afghani)",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Achari)",
+       "price": "170",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Coctail)",
+       "price": "170",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Panfried)",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Sizzler)",
+       "price": "280",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Mutton (Dry)",
+       "price": "210",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Mutton (Afghani)",
+       "price": "240",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Mutton (Achari)",
+       "price": "240",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Mutton (Coctail)",
+       "price": "240",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Mutton (Panfried)",
+       "price": "240",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Mutton (Sizzler)",
+       "price": "290",
+       "veg": "n"
+      }
+     ]
+    },
+    {
+     "name": "PURE WHEAT MOMOS (8 PCS)",
+     "combo": "",
+     "items": [
+      {
+       "name": "Mix Veg (Steam)",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Fried)",
+       "price": "140",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Dry)",
+       "price": "160",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Afghani)",
+       "price": "160",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Panfried)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Schezwan)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Steam)",
+       "price": "140",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Fried)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Dry)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Afghani)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Panfried)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Schezwan)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Classic Chicken (Steam)",
+       "price": "150",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Fried)",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Dry)",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Afghani)",
+       "price": "170",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Panfried)",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Schezwan)",
+       "price": "180",
+       "veg": "n"
+      }
+     ]
+    },
+    {
+     "name": "SPECIAL MAGIC MOMO (8 PCS)",
+     "combo": "",
+     "items": [
+      {
+       "name": "Mix Veg (Crispy)",
+       "price": "160",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Pizza)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Cheese)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Crispy)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Pizza)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Cheese)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Classic Chicken (Crispy)",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Pizza)",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Cheese)",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Mutton (Crispy)",
+       "price": "250",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Mutton (Cheese)",
+       "price": "240",
+       "veg": "n"
+      }
+     ]
+    },
+    {
+     "name": "GRAVY MOMOS (8 PCS)",
+     "combo": "",
+     "items": [
+      {
+       "name": "Makhani Gravy Momo (Veg)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Makhani Gravy Momo (Paneer)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Makhani Gravy Momo (Chicken)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Chilli Garlic Gravy Momo (Veg)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Chilli Garlic Gravy Momo (Paneer)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Chilli Garlic Gravy Momo (Chicken)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Chilli Gravy Momo (Veg)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Chilli Gravy Momo (Paneer)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Chilli Gravy Momo (Chicken)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Schezwan Gravy Momo (Veg)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Schezwan Gravy Momo (Paneer)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Schezwan Gravy Momo (Chicken)",
+       "price": "190",
+       "veg": "n"
+      }
+     ]
+    },
+    {
+     "name": "STEAM & FRIED MOMOS",
+     "combo": "",
+     "items": [
+      {
+       "name": "Mix Veg (Steam)",
+       "price": "95",
+       "veg": "v"
+      },
+      {
+       "name": "Mix Veg (Fried)",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Steam)",
+       "price": "115",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer (Fried)",
+       "price": "125",
+       "veg": "v"
+      },
+      {
+       "name": "Classic Chicken (Steam)",
+       "price": "120",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Chicken (Fried)",
+       "price": "130",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Mutton (Steam)",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Classic Mutton (Fried)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Extra Mayonnaise",
+       "price": "10",
+       "veg": "v"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "NOODLES / RICE BOWL",
+   "icon": "🍜",
+   "sections": [
+    {
+     "name": "SIGNATURE NOODLES/ RICE BOWL",
+     "combo": "",
+     "items": [
+      {
+       "name": "Veg Chowmien (Veg)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Veg Chowmien (Egg)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Veg Chowmien (Chicken)",
+       "price": "200",
+       "veg": "n"
+      },
+      {
+       "name": "Hakka Noodles (Veg)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Hakka Noodles (Egg)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Hakka Noodles (Chicken)",
+       "price": "200",
+       "veg": "n"
+      },
+      {
+       "name": "Mushroom Noodles (Veg)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Chowmien (Veg)",
+       "price": "190",
+       "veg": "v"
+      },
+      {
+       "name": "Schezwan Noodles (Veg)",
+       "price": "190",
+       "veg": "v"
+      },
+      {
+       "name": "Schezwan Noodles (Egg)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Schezwan Noodles (Chicken)",
+       "price": "210",
+       "veg": "n"
+      },
+      {
+       "name": "Shanghai Noodles (Veg)",
+       "price": "190",
+       "veg": "v"
+      },
+      {
+       "name": "Shanghai Noodles (Egg)",
+       "price": "200",
+       "veg": "n"
+      },
+      {
+       "name": "Shanghai Noodles (Chicken)",
+       "price": "210",
+       "veg": "n"
+      },
+      {
+       "name": "Chilli Garlic Noodles (Veg)",
+       "price": "190",
+       "veg": "v"
+      },
+      {
+       "name": "Chilli Garlic Noodles (Egg)",
+       "price": "200",
+       "veg": "n"
+      },
+      {
+       "name": "Chilli Garlic Noodles (Chicken)",
+       "price": "210",
+       "veg": "n"
+      },
+      {
+       "name": "Singapuri Noodles (Veg)",
+       "price": "190",
+       "veg": "v"
+      },
+      {
+       "name": "Singapuri Noodles (Egg)",
+       "price": "200",
+       "veg": "n"
+      },
+      {
+       "name": "Singapuri Noodles (Chicken)",
+       "price": "210",
+       "veg": "n"
+      },
+      {
+       "name": "Bankok Special (Veg)",
+       "price": "200",
+       "veg": "v"
+      },
+      {
+       "name": "Bankok Special (Egg)",
+       "price": "210",
+       "veg": "n"
+      },
+      {
+       "name": "Bankok Special (Chicken)",
+       "price": "220",
+       "veg": "n"
+      },
+      {
+       "name": "Korean Noodles (Veg)",
+       "price": "200",
+       "veg": "v"
+      },
+      {
+       "name": "Korean Noodles (Egg)",
+       "price": "210",
+       "veg": "n"
+      },
+      {
+       "name": "Korean Noodles (Chicken)",
+       "price": "220",
+       "veg": "n"
+      },
+      {
+       "name": "Hakka Fried Rice (Veg)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Hakka Fried Rice (Egg)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Hakka Fried Rice (Chicken)",
+       "price": "200",
+       "veg": "n"
+      },
+      {
+       "name": "Cheese Fried Rice (Veg)",
+       "price": "200",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese Fried Rice (Chicken)",
+       "price": "220",
+       "veg": "n"
+      },
+      {
+       "name": "Fried Rice (Dhaba Style) (Veg)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Fried Rice (Dhaba Style) (Egg)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Fried Rice (Dhaba Style) (Chicken)",
+       "price": "200",
+       "veg": "n"
+      },
+      {
+       "name": "Lemon Rice (Veg)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Lemon Rice (Egg)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Lemon Rice (Chicken)",
+       "price": "200",
+       "veg": "n"
+      },
+      {
+       "name": "Chilli Garlic Rice (Veg)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Chilli Garlic Rice (Egg)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Chilli Garlic Rice (Chicken)",
+       "price": "200",
+       "veg": "n"
+      },
+      {
+       "name": "Schezwan Rice (Veg)",
+       "price": "180",
+       "veg": "v"
+      },
+      {
+       "name": "Schezwan Rice (Egg)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Schezwan Rice (Chicken)",
+       "price": "200",
+       "veg": "n"
+      },
+      {
+       "name": "Korean Rice (Veg)",
+       "price": "200",
+       "veg": "v"
+      },
+      {
+       "name": "Korean Rice (Egg)",
+       "price": "210",
+       "veg": "n"
+      },
+      {
+       "name": "Korean Rice (Chicken)",
+       "price": "220",
+       "veg": "n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "CHINESE PREMIUM DISH",
+   "icon": "🥡",
+   "sections": [
+    {
+     "name": "CHINESE PREMIUM DISH",
+     "combo": "",
+     "items": [
+      {
+       "name": "French Fries",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Super Crispy Crinkle Cut Fries",
+       "price": "160",
+       "veg": "v"
+      },
+      {
+       "name": "Peri Peri Fries/ Masala Fries",
+       "price": "160",
+       "veg": "v"
+      },
+      {
+       "name": "Spring Roll (2 Rolls)",
+       "price": "140",
+       "veg": "v"
+      },
+      {
+       "name": "Chilli Potato",
+       "price": "190",
+       "veg": "v"
+      },
+      {
+       "name": "Honey Chilli Potato",
+       "price": "200",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer \"65\"",
+       "price": "270",
+       "veg": "v"
+      },
+      {
+       "name": "Veg Manchurian (Dry)",
+       "price": "220",
+       "veg": "v"
+      },
+      {
+       "name": "Veg Manchurian (Gravy)",
+       "price": "240",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Chilli (Dry)",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Chilli (Gravy)",
+       "price": "280",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Manchurian (Dry)",
+       "price": "250",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Manchurian (Gravy)",
+       "price": "270",
+       "veg": "v"
+      },
+      {
+       "name": "Barbequ pappery Paneer",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Crispy Corn Salt & Pepper",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Baby Corn Mushroom Chilli",
+       "price": "260",
+       "veg": "v"
+      },
+      {
+       "name": "Mushroom Chilli",
+       "price": "240",
+       "veg": "v"
+      },
+      {
+       "name": "Mushroom Balls (6 Pc)",
+       "price": "200",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese Balls (6 Pc)",
+       "price": "210",
+       "veg": "v"
+      },
+      {
+       "name": "Chicken Spring roll (2 Rolls)",
+       "price": "180",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Chili (Dry)",
+       "price": "270",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Chili (Gravy)",
+       "price": "290",
+       "veg": "n"
+      },
+      {
+       "name": "Lemon Garlic Chicken",
+       "price": "280",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Shezwan (Dry)",
+       "price": "280",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Shezwan (Gravy)",
+       "price": "300",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken \"65\"",
+       "price": "280",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Manchurian (Dry)",
+       "price": "270",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Manchurian (Gravy)",
+       "price": "290",
+       "veg": "n"
+      },
+      {
+       "name": "Ginger Garlic Chicken (Dry) (check)",
+       "price": "270",
+       "veg": "n"
+      },
+      {
+       "name": "Ginger Garlic Chicken (Gravy) (check)",
+       "price": "290",
+       "veg": "n"
+      },
+      {
+       "name": "BBQ Sauce Chicken Dry",
+       "price": "270",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Loli pop (6 Pcs)",
+       "price": "330",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Wings (8 Pcs)",
+       "price": "320",
+       "veg": "n"
+      },
+      {
+       "name": "Drum of heaven (6 Pcs)",
+       "price": "330",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Balls (6 Pcs)",
+       "price": "220",
+       "veg": "n"
+      },
+      {
+       "name": "Chicken Popcorn (15 Pcs)",
+       "price": "250",
+       "veg": "n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "SIGNATURE HIMACHALI DISH",
+   "icon": "🏔️",
+   "sections": [
+    {
+     "name": "SIGNATURE HIMACHALI DISH",
+     "combo": "",
+     "items": [
+      {
+       "name": "Stuff Siddu",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Sweet Siddu",
+       "price": "110",
+       "veg": "v"
+      },
+      {
+       "name": "Stuff Siddu with Chatni",
+       "price": "110",
+       "veg": "v"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "BURGER BUN",
+   "icon": "🍔",
+   "sections": [
+    {
+     "name": "BURGER BUN",
+     "combo": "",
+     "items": [
+      {
+       "name": "Cheese Burger (Veg)",
+       "price": "100",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese Burger (Paneer)",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese Burger (Chicken)",
+       "price": "130",
+       "veg": "n"
+      },
+      {
+       "name": "Double Cheese Slice (Veg)",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Double Cheese Slice (Paneer)",
+       "price": "140",
+       "veg": "v"
+      },
+      {
+       "name": "Double Cheese Slice (Chicken)",
+       "price": "150",
+       "veg": "n"
+      },
+      {
+       "name": "Double Cheese Slice Extra Loaded (Veg)",
+       "price": "150",
+       "veg": "v"
+      },
+      {
+       "name": "Double Cheese Slice Extra Loaded (Paneer)",
+       "price": "170",
+       "veg": "v"
+      },
+      {
+       "name": "Double Cheese Slice Extra Loaded (Chicken)",
+       "price": "190",
+       "veg": "n"
+      },
+      {
+       "name": "Aloo Tikki Burger",
+       "price": "65",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Tikki Burger",
+       "price": "85",
+       "veg": "v"
+      },
+      {
+       "name": "Chicken Tikki Burger",
+       "price": "95",
+       "veg": "n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "HOT POT",
+   "icon": "🍲",
+   "sections": [
+    {
+     "name": "HOT POT",
+     "combo": "",
+     "items": [
+      {
+       "name": "Thupka (Veg)",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Thupka (Non-Veg)",
+       "price": "140",
+       "veg": "n"
+      },
+      {
+       "name": "Manchow (Veg)",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Manchow (Non-Veg)",
+       "price": "130",
+       "veg": "n"
+      },
+      {
+       "name": "Talumein (Veg)",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Talumein (Non-Veg)",
+       "price": "120",
+       "veg": "n"
+      },
+      {
+       "name": "Mushroom (Veg)",
+       "price": "140",
+       "veg": "v"
+      },
+      {
+       "name": "Sweet Corn (Veg)",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Sweet Corn (Non-Veg)",
+       "price": "130",
+       "veg": "n"
+      },
+      {
+       "name": "Hot & Sour (Veg)",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Hot & Sour (Non-Veg)",
+       "price": "140",
+       "veg": "n"
+      },
+      {
+       "name": "Veg Clear Soup (Veg)",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Veg Clear Soup (Non-Veg)",
+       "price": "150",
+       "veg": "n"
+      },
+      {
+       "name": "Lemon Coriander (Veg)",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Lemon Coriander (Non-Veg)",
+       "price": "140",
+       "veg": "n"
+      },
+      {
+       "name": "Wanton (Veg)",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Wanton (Non-Veg)",
+       "price": "140",
+       "veg": "n"
+      },
+      {
+       "name": "Mutton Thupka",
+       "price": "180",
+       "veg": "n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "SANDWICHES",
+   "icon": "🥪",
+   "sections": [
+    {
+     "name": "SANDWICHES",
+     "combo": "",
+     "items": [
+      {
+       "name": "Grill Veg Club Sandwich",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Magic Special Sandwich",
+       "price": "140",
+       "veg": "v"
+      },
+      {
+       "name": "Cheese Corn Sandwich",
+       "price": "140",
+       "veg": "v"
+      },
+      {
+       "name": "Paneer Tikka Sandwich",
+       "price": "140",
+       "veg": "v"
+      },
+      {
+       "name": "Masala Veg Sandwich",
+       "price": "140",
+       "veg": "v"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "BEVERAGES",
+   "icon": "🍹",
+   "sections": [
+    {
+     "name": "BEVERAGES",
+     "combo": "",
+     "items": [
+      {
+       "name": "Fresh Lime Soda",
+       "price": "85",
+       "veg": "v"
+      },
+      {
+       "name": "Virgin Mojito",
+       "price": "110",
+       "veg": "v"
+      },
+      {
+       "name": "Green Apple Mojito",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Kiwi Mojito",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Watermelon Mojito",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Kala Khatta",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Bublegum",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Ice Tea",
+       "price": "130",
+       "veg": "v"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "PREMIUM SHAKES",
+   "icon": "🥤",
+   "sections": [
+    {
+     "name": "PREMIUM SHAKES",
+     "combo": "",
+     "items": [
+      {
+       "name": "Chocolate Shake",
+       "price": "110",
+       "veg": "v"
+      },
+      {
+       "name": "Strawberry",
+       "price": "110",
+       "veg": "v"
+      },
+      {
+       "name": "Vanilla Shake",
+       "price": "110",
+       "veg": "v"
+      },
+      {
+       "name": "Cold Coffee",
+       "price": "110",
+       "veg": "v"
+      },
+      {
+       "name": "Butter Scotch",
+       "price": "120",
+       "veg": "v"
+      },
+      {
+       "name": "Saffron & Rose Milk Shake",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Oreo Cookies & Fusion Brownie",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Hazelnut & Banana Shake",
+       "price": "130",
+       "veg": "v"
+      },
+      {
+       "name": "Kitkat Shake",
+       "price": "130",
+       "veg": "v"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "CHOP SUEY",
+   "icon": "🥢",
+   "sections": [
+    {
+     "name": "CHOP SUEY",
+     "combo": "",
+     "items": [
+      {
+       "name": "American Chop Suey",
+       "price": "260",
+       "veg": "b"
+      },
+      {
+       "name": "Chinese Veg Chop Suey",
+       "price": "280",
+       "veg": "v"
+      },
+      {
+       "name": "Chinese Chicken Chop Suey",
+       "price": "280",
+       "veg": "n"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "KUCH MITHA HO JAYE",
+   "icon": "🍫",
+   "sections": [
+    {
+     "name": "KUCH MITHA HO JAYE",
+     "combo": "",
+     "items": [
+      {
+       "name": "Walnut Brownie (without Ice Cream)",
+       "price": "105",
+       "veg": "v"
+      },
+      {
+       "name": "Walnut Brownie (with Ice Cream)",
+       "price": "130",
+       "veg": "v"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "COMBO MEALS",
+   "icon": "🍱",
+   "sections": [
+    {
+     "name": "COMBO MEALS",
+     "combo": "",
+     "items": [
+      {
+       "name": "Moburg Kaho Piyo (Veg)",
+       "price": "190",
+       "veg": "v"
+      },
+      {
+       "name": "Moburg Kaho Piyo (Non-Veg)",
+       "price": "240",
+       "veg": "n"
+      },
+      {
+       "name": "Rolla Ropa Pao (Veg)",
+       "price": "190",
+       "veg": "v"
+      },
+      {
+       "name": "Rolla Ropa Pao (Non-Veg)",
+       "price": "240",
+       "veg": "n"
+      },
+      {
+       "name": "Friends Matter & Platter (Veg)",
+       "price": "430",
+       "veg": "v"
+      },
+      {
+       "name": "Friends Matter & Platter (Non-Veg)",
+       "price": "480",
+       "veg": "n"
+      },
+      {
+       "name": "The Geisha Noodles (Veg)",
+       "price": "250",
+       "veg": "v"
+      },
+      {
+       "name": "The Geisha Noodles (Non-Veg)",
+       "price": "280",
+       "veg": "n"
+      },
+      {
+       "name": "Party Platters",
+       "price": "510",
+       "veg": "v"
+      },
+      {
+       "name": "The Laughing Budha (Veg)",
+       "price": "250",
+       "veg": "v"
+      },
+      {
+       "name": "The Laughing Budha (Non-Veg)",
+       "price": "270",
+       "veg": "n"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
